@@ -1,5 +1,5 @@
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: spaday-vaadin
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-vaadin/spaday_vaadin-${{ version }}.tar.gz
-  sha256: afb9983f74732caaab2455223087dcda56d41755e737fc031a067cc93081a9a7
+  sha256: a4e2595cba82e301b0d0a459850c4ebf51852b0acd17515df123cee0d4496ae6
 
 build:
   number: 0
