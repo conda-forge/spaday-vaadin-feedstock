@@ -26,7 +26,7 @@ requirements:
     - hatch-js
   run:
     - python >=${{ python_min }}
-    - spaday >=0.8.2,<1
+    - spaday >=0.10.0,<1
 
 tests:
   - python:
